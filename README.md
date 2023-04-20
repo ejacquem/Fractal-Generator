@@ -111,7 +111,7 @@ This is an eclipse project, all classes are in the Fractal_Generator_V1\src fold
 
 # Releases
 
-To just test the program, go to [**Releases**](https://github.com/ejacquem/Fractal-Generator/releases).
+To just test the program, go to [**Releases**](https://github.com/ejacquem/Fractal-Generator/releases). You can download the first zip file and execute the .jar file.
 
 This program is in [Java](https://www.java.com/download/ie_manual.jsp), so you need a recent enough version of java in order to work.
 
