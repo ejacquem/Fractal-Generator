@@ -1,0 +1,4 @@
+Koch : OriginalNameHere (6,45,360,2,3,false)
+TreeSimple : ILoveThisOne! (15,300,2,0,true,false)
+TreeAdvanced : Name (10,true,true,{45,50,50}{0,50,100}{-45,50,75})
+Koch  : MyFractal1 (8,60,0,3,2,false);
