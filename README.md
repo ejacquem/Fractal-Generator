@@ -24,6 +24,7 @@ This program generate [1.x dimension](https://en.wikipedia.org/wiki/Hausdorff_di
     * [LSystem](#lsystem)
 * **[Tips](#tips)**
 * **[Installation](#installation)**
+* **[Releases](#releases)**
 * **[Images](#images)**
     * [Koch CurveEnhanced](#tree)
     * [Classic](#Classic)
