@@ -6,6 +6,10 @@ This program generate [1.x dimension](https://en.wikipedia.org/wiki/Hausdorff_di
 * The second method "*Tree*" is one I've created to generate Trees. It has a 2 versions, Simple and Advanced.
 * The third is a very simple version of the [LSystem](https://en.wikipedia.org/wiki/L-system) .
 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Presentation.png" width="700">
+</p><br/>
+
 # Summary
 
 * **[Summary](#summary)**
@@ -111,42 +115,42 @@ In order to save images or state of your fractal, you need to have "My fractal I
 
 ### Koch CurveEnhanced
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Koch_CurveEnhanced.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Koch_CurveEnhanced.png" width="500">
 </p><br/>
 
 ### Classic
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Classic.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Classic.png" width="500">
 </p><br/>
 
 ### Beech
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Beech.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Beech.png" width="500">
 </p><br/>
 
 ### Fern
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Fern.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Fern.png" width="500">
 </p><br/>
 
 ### Flower
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Flower.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Flower.png" width="500">
 </p><br/>
 
 ### Spiral
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Spiral.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Spiral.png" width="500">
 </p><br/>
 
 ### Sierpinski_Triangle
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Sierpinski_Triangle.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Sierpinski_Triangle.png" width="500">
 </p><br/>
 
 ### Cool_Fractal
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/My%20Fractal%20Images/Cool_Fractal.png" width="500">
+	<img src="https://raw.githubusercontent.com/ejacquem/Fractal-Generator/main/resources/Cool_Fractal.png" width="500">
 </p>
 
 
