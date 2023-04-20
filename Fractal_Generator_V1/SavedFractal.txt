@@ -1,0 +1,12 @@
+Koch : OriginalNameHere (6,45,360,2,3,false);
+TreeSimple : ILoveThisOne! (15,300,2,577,true,false);
+TreeAdvanced : Cooltree (10,true,true,{45,50,50}{0,50,100}{-45,50,75});
+LSystem  : MyFractal1 (7,90,X -> XF+XF--XF+XF,X---X-X---X-X---X++X+++X+X+++X+X+++X);
+LSystem  : MyFractal2 (13,45,A -> -AF++AF-,A);
+LSystem  : MyFractal3 (5,90,A -> -BF+AFA+FB-
+B -> +AF-BFB-FA+
+F -> F,A);
+LSystem  : MyFractal4 (5,90,A -> -BF+AFA+FB-
+B -> +AF-BFB-FA+
+F -> F
+,A);

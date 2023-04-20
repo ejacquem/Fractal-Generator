@@ -107,9 +107,15 @@ It's also easier to understand how it works when there is only a few lines on th
 
 # Installation
 
+This is an eclipse project, all classes are in the Fractal_Generator_V1\src folder.
+
+# Releases
+
+To just test the program, go to [**Releases**](https://github.com/ejacquem/Fractal-Generator/releases).
+
 This program is in [Java](https://www.java.com/download/ie_manual.jsp), so you need a recent enough version of java in order to work.
 
-In order to save images or state of your fractal, you need to have "My fractal Images" folder and "SavedFratal.txt" text file in the same folder as the program. You might need to allow the program to have access to the text file.
+To save images or state of your fractal, you need to have "My fractal Images" folder and "SavedFratal.txt" text file in the same folder as the program. You might need to allow the program to have access to the text file.
 
 # Images
 
